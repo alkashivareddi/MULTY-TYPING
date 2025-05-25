@@ -11,11 +11,12 @@ Built using HTML, CSS, and JavaScript
 Easy to use on any browser – no installation needed
 
 # Project Structure
-
+```
 MULTY-TYPING/
-index.html     → Main HTML file
-style.css      → CSS styling
-script.js      → JavaScript logic
+├── index.html     → Main HTML file
+├── style.css      → CSS styling
+└── script.js      → JavaScript logic
+```
 
 
 
