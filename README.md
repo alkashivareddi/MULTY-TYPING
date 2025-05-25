@@ -25,6 +25,10 @@ MULTY-TYPING/
 2.Go to the project folder:
 
    cd MULTY-TYPING
+# License
+This project is open-source and available under the MIT License.
+
+   
 
 
 
